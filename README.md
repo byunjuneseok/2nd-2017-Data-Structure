@@ -1,4 +1,4 @@
-# 201702_ds
+# 2nd-2017-Data-Structure
 Data Structure in C++
 
 This cpp files are based on 'Fundamentals of Data Structures in C++ by HOROWITZ, SAHNI, MEHTA'.
