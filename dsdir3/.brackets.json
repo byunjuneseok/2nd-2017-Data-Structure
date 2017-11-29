@@ -1,6 +1,0 @@
-{
-    "brackets-latex.texBinDirectory": "C:\\texlive",
-    "brackets-latex.outputDirectory": "out",
-    "brackets-latex.compiler": "pdflatex",
-    "brackets-latex.mainFile": null
-}
